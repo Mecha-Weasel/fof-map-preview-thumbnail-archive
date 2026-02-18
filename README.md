@@ -53,7 +53,5 @@ C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof
 ## PS: For custom FoF map authors:
 
 * When creating a custom map for FoF, you are encouraged to also create a map preview thumbnail.
-* The process for doing-so, is outlined in this Steam Guide:
-
-[How to create FoF map thumbnails (2025)](https://steamcommunity.com/sharedfiles/filedetails/?id=3445083893).
+* The process for doing-so, is outlined in this Steam Guide: [How to create FoF map thumbnails (2025)](https://steamcommunity.com/sharedfiles/filedetails/?id=3445083893)
 
