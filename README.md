@@ -21,18 +21,19 @@ Changes from the older system:
 Installation locations:
 
 * On Windows, the default Fistful of Frags location is typically:
-
-	C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags
-
+```
+C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags
+```
 * On Windows, the location where you should download the scripts to is typically:
-	
-	C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof
-	
+```
+C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof
+```
 * On Linux Mint, the default Fistful of Frags location is typically:
-
-	/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags
-	
+```
+/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags
+```
 * On Linux Mint, the location where you should download the scripts to is typically:
-	
-	/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags/fof
+```
+/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags/fof
+```
 
