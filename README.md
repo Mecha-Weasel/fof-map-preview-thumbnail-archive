@@ -1,6 +1,8 @@
 # Fistful of Frags Map Preview Thumbnail Archive
 An archive of preview thumbnails for custom/3rd-party maps for use in the Fistful of Frags (FoF) Highlighted Server Browser (HSB) feature.
 
+![Notetated screenshot of FoF HSB map preview thumbnail shown in-game.](fof-hsb-map-preview-thumbnails.jpg)
+
 ## What exactly is this?
 * This archive includes map preview thumbnails for custom maps that are not part of the default FoF installation.
 * When installed, these thumbnails are shown in FoF's "Highlighted Server Browser" (HSB) feature, instead of the generic "Custom Map" place-holder.
