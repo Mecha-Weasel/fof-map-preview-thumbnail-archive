@@ -2,7 +2,7 @@
 An archive of preview thumbnails for custom/3rd-party maps for use in the Fistful of Frags (FoF) Highlighted Server Browser (HSB) feature.
 
 ## For anyone running the older system:
-* This system is intended to replace the equivalent functionality previously provided older efforts (https://github.com/Mecha-Weasel/spittoon/blob/main/FoF-Community-Map-Thumbnails-Update.md)
+* This system is intended to replace the equivalent functionality previously provided by older efforts (https://github.com/Mecha-Weasel/spittoon/blob/main/FoF-Community-Map-Thumbnails-Update.md).
 * There is no rush to do anything.
 * Eventually, uninstall the older system - using the Windows Control Panel's "Programs and Features" area.
 * After uninstalling the older system, install this new one.
