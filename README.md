@@ -3,7 +3,13 @@ An archive of preview thumbnails for custom/3rd-party maps for use in the Fistfu
 
 A Work-In-Progress
 
-Intented to eventually replace the equivalent functionality previously provided by https://github.com/Mecha-Weasel/spittoon/blob/main/FoF-Community-Map-Thumbnails-Update.md
+This system is intended to replace the equivalent functionality previously provided older efforts (https://github.com/Mecha-Weasel/spittoon/blob/main/FoF-Community-Map-Thumbnails-Update.md). For anyone running the older system:
+* There is no rush to do anything.
+* Eventually, uninstall the older system - using the Windows Control Panel's "Programs and Features" area.
+* After uninstalling the older system, install this new one.
+* On Windows, just download the "install-fof-map-thumbnails.cmd" file to the "fof" sub-folder where Fistful of Frags is installed (see further below).
+* Run that "install-fof-map-thumbnails.cmd" file, and it will download the archive (in .zip format), and extract it in the required location.
+* Similar scripts for Linux Mint are also under development, but are not yet ready for use.
 
 Changes from the older system:
 * No Windows binary executable (.exe file).
