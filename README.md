@@ -20,9 +20,14 @@ Changes from the older system:
 
 Installation location
 * Default FoF location on Windows is typically:
+
 	C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags
+	
 	C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof  <-- where the scripts should be placed!
+	
 * Default FoF location on Linux Mint is typically:
+
 	/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags
+	
 	/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags/foffof  <-- where the scripts should be placed!
 
