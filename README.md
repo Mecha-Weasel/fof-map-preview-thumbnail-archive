@@ -1,17 +1,18 @@
-# fof-map-preview-thumbnail-archive
-An archive of preview thumbnails for custom/3rd-party maps for use in the Fistful of Frags (FoF) Highlighted Server Browser (HSB)
+# Fistful of Frags Map Preview Thumbnail Archive
+An archive of preview thumbnails for custom/3rd-party maps for use in the Fistful of Frags (FoF) Highlighted Server Browser (HSB) feature.
 
-A Work-In-Progress
-
-This system is intended to replace the equivalent functionality previously provided older efforts (https://github.com/Mecha-Weasel/spittoon/blob/main/FoF-Community-Map-Thumbnails-Update.md). For anyone running the older system:
+## For anyone running the older system:
+* This system is intended to replace the equivalent functionality previously provided older efforts (https://github.com/Mecha-Weasel/spittoon/blob/main/FoF-Community-Map-Thumbnails-Update.md)
 * There is no rush to do anything.
 * Eventually, uninstall the older system - using the Windows Control Panel's "Programs and Features" area.
 * After uninstalling the older system, install this new one.
+
+## How to install this newer system:
 * On Windows, just download the "install-fof-map-thumbnails.cmd" file to the "fof" sub-folder where Fistful of Frags is installed (see further below).
 * Run that "install-fof-map-thumbnails.cmd" file, and it will download the archive (in .zip format), and extract it in the required location.
 * Similar scripts for Linux Mint are also under development, but are not yet ready for use.
 
-Changes from the older system:
+## Changes from the older system:
 * No Windows binary executable (.exe file).
 * The installer for Windows is just a "batch-file" (.cmd file).
 * The uninstaller for Windows is also just a "batch-file" (.cmd file).
@@ -24,7 +25,7 @@ Changes from the older system:
 * All scripts do some reality-checking to ensure they are being run from the proper location.
 * All scripts should be downloaded into and executed from the "fof" folder INSIDE your FoF installation.
 
-Installation locations:
+## Installation locations:
 
 * On Windows, the default Fistful of Frags location is typically:
 ```
