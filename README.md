@@ -18,16 +18,21 @@ Changes from the older system:
 * All scripts do some reality-checking to ensure they are being run from the proper location.
 * All scripts should be downloaded into and executed from the "fof" folder INSIDE your FoF installation.
 
-Installation location
-* Default FoF location on Windows is typically:
+Installation locations:
+
+* On Windows, the default Fistful of Frags location is typically:
 
 	C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags
+
+* On Windows, the location where you should download the scripts to is typically:
 	
-	C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof  <-- where the scripts should be placed!
+	C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof
 	
-* Default FoF location on Linux Mint is typically:
+* On Linux Mint, the default Fistful of Frags location is typically:
 
 	/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags
 	
-	/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags/foffof  <-- where the scripts should be placed!
+* On Linux Mint, the location where you should download the scripts to is typically:
+	
+	/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags/fof
 
