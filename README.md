@@ -50,4 +50,11 @@ C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof
 ```
 /home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags/fof
 ```
+## PS: For custom FoF map authors:
+
+* When preparing to publish custom maps for FoF, you are encourages to also create a map preview thumbnail for it.
+* The process for doing-so, is outlined in this Steam Guide:
+```
+https://steamcommunity.com/sharedfiles/filedetails/?id=3445083893
+```
 
