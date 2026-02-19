@@ -26,7 +26,7 @@ if [ ! -f "steam.inf" ]; then
 	echo -E "This probably means that you did not download the script into the";
 	echo -E "correct location.  It MUST be downloaded to the "fof" sub-folder";
 	echo -E "where Fistful of Frags is installed.  This folder is typically:";
-	echo -E "C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof";
+	echo -E "/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags/fof";
 	echo -E "This script will now exit ...";
 	echo -E "=====================================================================";
 	exit 1;
@@ -60,7 +60,7 @@ if [[ "$appID" != "$AppID_Expected" ]]; then
 	echo -E "This probably means that you did not download the script into the";
 	echo -E "correct location.  It MUST be downloaded to the "fof" sub-folder";
 	echo -E "where Fistful of Frags is installed.  This folder is typically:";
-	echo -E "C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof";
+	echo -E "/home/$USER/.steam/debian-installation/steamapps/common/Fistful of Frags/fof";
 	echo -E "This script will now exit ...";
 	echo -E "=====================================================================";
 	exit 1;

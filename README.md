@@ -16,10 +16,20 @@ An archive of preview thumbnails for custom/3rd-party maps for use in the Fistfu
 * Eventually, uninstall the older system - using the Windows Control Panel's "Programs and Features" area.
 * After uninstalling the older system, install this new one.
 
-## How to install this newer system:
+## How to install this newer system (Windows):
 * On Windows, just download the "install-fof-map-thumbnails.cmd" file to the "fof" sub-folder where Fistful of Frags is installed (see further below).
 * Run that "install-fof-map-thumbnails.cmd" file, and it will download the archive (in .zip format), and extract it in the required location.
 * Similar scripts for Linux Mint are also under development, but are not yet ready for use.
+
+## How to install this newer system (Linux):
+* For Linux, you must have the "unzip" utility installed.
+* It might already be installed by default.
+* On Linux Mint or Ubuntu, you can install that unzip utility with the command:
+'''
+sudo apt-get install -y unzip;
+'''
+* On Linux, just download the "install-fof-map-thumbnails.sh" file to the "fof" sub-folder where Fistful of Frags is installed (see further below).
+* Run that "install-fof-map-thumbnails.sh" file, and it will download the archive (in .zip format), and extract it in the required location.
 
 ## Changes from the older system:
 * No Windows binary executable (.exe file).
