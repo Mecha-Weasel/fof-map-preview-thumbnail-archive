@@ -6,8 +6,8 @@ An archive of preview thumbnails for custom/3rd-party maps for use in the Fistfu
 ## What exactly is this?
 * This archive includes map preview thumbnails for custom maps that are not part of the default FoF installation.
 * When installed, these thumbnails are shown in FoF's "Highlighted Server Browser" (HSB) feature, instead of the generic "Custom Map" place-holder.
-* This makes it easier for players to identify which map an FoF server is currently running before joining it.
 * In addition to the thumbnails being a small visual representation of the map, they are generally also overlayed with the name of the map.
+* Installing the previews makes it easier for players to identify which map an FoF server is currently running before joining it.
 * This archive currently represents sixty (60) maps - ranging from completely original maps, to older or alternative versions of default/stock FoF maps.
 
 ## For anyone running the older system:
