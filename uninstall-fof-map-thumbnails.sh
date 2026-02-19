@@ -77,15 +77,15 @@ echo -E "[x] NOTICE: Correct AppID (265630) found in steam.inf file.";
 echo -E "------------------------------------------------";
 echo -E "1. Deleting custom map preview thumbnails ...";
 echo -E "------------------------------------------------";
-rm -f materials/vgui/maps/*.vtf
-rm -f materials/vgui/maps/*.vmt
+rm -f materials/vgui/maps/*.vtf 2> /dev/null > /dev/null;
+rm -f materials/vgui/maps/*.vmt 2> /dev/null > /dev/null;
 #
 #	List resultant folder contents ...
 #
 echo -E "------------------------------------------------";
 echo -E "2. List folder contents ...";
 echo -E "------------------------------------------------";
-ls -lah materials/vgui/maps
+ls -lah materials/vgui/maps;
 #
 #	If we got this far, assume everything finished corectly,
 #	and display a message saying so ...

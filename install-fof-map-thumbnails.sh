@@ -74,9 +74,9 @@ echo -E "[x] NOTICE: Correct AppID (265630) found in steam.inf file.";
 #
 #	Ensure the the proper folder/sub-directory structure exists ...
 #
-mkdir materials >nul;
-mkdir materials/vgui >nul;
-mkdir materials/vgui/maps >nul;
+mkdir materials 2> /dev/null > /dev/null;
+mkdir materials/vgui 2> /dev/null > /dev/null;
+mkdir materials/vgui/maps 2> /dev/null > /dev/null;
 #
 #	Change to the proper folder/sub-directory ...
 #
